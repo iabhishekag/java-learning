@@ -1,4 +1,4 @@
-public class TypeCoversion {
+public class TypeConversion {
     public static void main(String[] args){
         float my = 5;
         System.out.println(my);
