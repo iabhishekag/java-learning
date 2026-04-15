@@ -24,10 +24,9 @@ public class NumberComparison {
             } else if (num2 > num1 && num2 > num3) {
                 result = num2;
             }else{
-                result = num3;            }
+                result = num3;
+            }
         }
-
         System.out.println("Result = " + result);
-
     }
 }
