@@ -6,6 +6,10 @@ public class PrimeNumber {
         System.out.print("Please enter your number: ");
         int num = input.nextInt();
         int i = 2;
+        if (num < 2){
+            System.out.println("Your number is not prime");
+            System.exit(0);
+        }
         boolean isPrime = true; // assumption
         while (i < num){
             if (num % i == 0){
