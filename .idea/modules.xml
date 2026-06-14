@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataVariableAndInput/DataVariableAndInput.iml" filepath="$PROJECT_DIR$/DataVariableAndInput/DataVariableAndInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstProject/FirstProject.iml" filepath="$PROJECT_DIR$/FirstProject/FirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperatorIfElseAndNumberSystem/OperatorIfElseAndNumberSystem.iml" filepath="$PROJECT_DIR$/OperatorIfElseAndNumberSystem/OperatorIfElseAndNumberSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RightPyramid/RightPyramid.iml" filepath="$PROJECT_DIR$/RightPyramid/RightPyramid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoopMethodAndArray/WhileLoopMethodAndArray.iml" filepath="$PROJECT_DIR$/WhileLoopMethodAndArray/WhileLoopMethodAndArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-learning.iml" filepath="$PROJECT_DIR$/.idea/java-learning.iml" />
+    </modules>
+  </component>
+</project>
